@@ -1,0 +1,10 @@
+
+target "IdentifyDemo" do
+  pod "Identify", :path => "../Identify.podspec"
+end
+
+target "IdentifyTests" do
+  pod "Identify",    :path => "../Identify.podspec"
+  pod 'Expecta',     '~> 0.2.3'
+  pod 'Specta',      '~> 0.2.1'
+end

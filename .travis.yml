@@ -1,0 +1,7 @@
+language: objective-c
+
+# https://github.com/travis-ci/travis-ci/issues/1637
+rvm: 1.9.3
+
+script:
+  - make

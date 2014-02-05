@@ -2,3 +2,4 @@ docs
 Podfile.lock
 xcuserdata
 Pods
+*.xccheckout

@@ -18,7 +18,7 @@ Create compact, unique identifiers in iOS.
 Identify is available through [CocoaPods](http://cocoapods.org), to
 install it simply add the following line to your Podfile:
 
-    pod 'Identify', '~> 0.1.0'
+    pod 'Identify', '~> 0.1.1'
 
 ## License ##
 

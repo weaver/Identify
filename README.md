@@ -4,6 +4,7 @@ Create compact, unique identifiers in iOS.
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/Identify/badge.png)](http://cocoadocs.org/docsets/Identify)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/Identify/badge.png)](http://cocoadocs.org/docsets/Identify)
+[![Build Status](https://travis-ci.org/weaver/Identify.png?branch=master)](https://travis-ci.org/weaver/Identify)
 
 ## Features ##
 
